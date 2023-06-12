@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been working in Vue.js using Nuxt.js framework for 2 years, but I really found a passion for backend development.
+I've been working in Vue.js using Nuxt.js framework for 3 years, but I really found a passion for backend development.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [gameboyfun@hotmail.com](mailto:gameboyfun@hotmail.com)

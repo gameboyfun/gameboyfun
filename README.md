@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been working in Vue.js using Nuxt.js framework for 3 years, but I really found a passion for backend development.
+I've been working in Vue.js using Nuxt.js framework and React.js using Next.js framework for 4 years, but I really found a passion for backend development.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [gameboyfun@hotmail.com](mailto:gameboyfun@hotmail.com)
-* 🧠  I'm learning Node.js, Next.js, Nest.js, Svelte, Sveltekit
+* 🧠  I'm learning Node.js, Nest.js, Express.js, Svelte, Sveltekit
 
 ### Skills
 
@@ -40,7 +40,5 @@ I've been working in Vue.js using Nuxt.js framework for 3 years, but I really fo
 <p align="left"> <a href="https://discord.com/users/gameboyfun#0079" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/gameboyfun.blackfamily" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/gameboyfun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gamexeres?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thipakorn-kaewsuwan-b6a9001ba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/gameboyfun"><img src="https://github-readme-stats.vercel.app/api?username=gameboyfun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gameboyfun's GitHub stats" /></a>
 
 <a href="https://github.com/gameboyfun" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameboyfun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
